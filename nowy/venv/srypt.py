@@ -1,2 +1,1 @@
-import listy
-
+import funkcje
